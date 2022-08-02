@@ -1,3 +1,4 @@
+// FILE SHOULD BE DONE
 
 const sequelize = require('../config/connection');
 const { User, Posts } = require('../models');

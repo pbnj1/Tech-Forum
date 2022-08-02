@@ -1,2 +1,3 @@
+-- FILE SHOULD BE DONE
 DROP DATABASE IF EXISTS techforum_db;
 CREATE DATABASE techforum_db;

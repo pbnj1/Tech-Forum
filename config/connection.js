@@ -1,3 +1,4 @@
+// FILE SHOULD BE DONE
 const Sequelize = require('sequelize');
 require('dotenv').config();
 
